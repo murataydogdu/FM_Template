@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data:Project xmlns:meta="urn:meta.Editor.Agentry.Syclo" xmlns:data="urn:data.Editor.Agentry.Syclo">
+ <meta:Comment>
+  <meta:FileType meta:FileType="apj">Agentry File Type</meta:FileType>
+  <meta:AppName>FM_Template</meta:AppName>
+  <meta:AppVersion/>
+  <meta:EditorVersion>7.0.3.264</meta:EditorVersion>
+ </meta:Comment>
+ <data:Servers/>
+ <data:ScriptPaths/>
+ <data:Properties>
+  <data:LoadableProperties>16</data:LoadableProperties>
+ </data:Properties>
+</data:Project>
